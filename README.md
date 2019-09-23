@@ -2,7 +2,7 @@
 Ethereum Smart Contract using Solidity and JS <br />
 Uses Truffle Framework and Ganache for local deployment and testing <br /><br />
 
-CrowdFunding contract<br/>
+<b>CrowdFunding contract</b><br/>
 <ul>
   <li>Creates a crowdfunding campaign with specified name, target amount, deadline, and beneficiary</li>
   <ul><li>Ex: contract = CrowdFunding.new('test funding', 1, 10, beneficiary, {from: 0x0, gas: 2000000})</li></ul>
@@ -12,12 +12,12 @@ CrowdFunding contract<br/>
   </ul>
   
 <br />
-To test (while on root directory and Ganache running): <br />
+<b>To test</b> (while on root directory and Ganache running): <br />
 1. truffle migrate --network ganache <br />
 2. truffle test --network ganache <br />
 
 <br />
-Learning Ethereum: <br />
+<b>Learning Ethereum</b>: <br />
 1. MetaMask to create my first Ethereum account in the Rinkeby network<br />
 <img src="/images/MetaMask.png" alt="MetaMask" width=auto height=300>
 

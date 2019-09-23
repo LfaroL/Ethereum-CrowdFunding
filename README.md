@@ -17,7 +17,7 @@ Uses Truffle Framework and Ganache for local deployment and testing <br /><br />
 2. truffle test --network ganache <br />
 
 <br /><br />
-<b>Learning Ethereum</b>: <br /><br/>
+<b>Learning Ethereum</b>: <br />
 1. MetaMask to create my first Ethereum account in the Rinkeby network<br />
 <img src="/images/MetaMask.png" alt="MetaMask" width=auto height=300>
 
